@@ -22,7 +22,7 @@ repository               : "ninambrown/ninambrown.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/nina_profile.jpg"
+  avatar           : "nina_profile.jpg"
   name             : "Nina Brown"
   pronouns         : "they/them"  
   bio              : "Astrophysics PhD student at the University of Arizona"
