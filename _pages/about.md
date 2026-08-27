@@ -13,7 +13,6 @@ I'm currently working on reduce/reuse/recycling the retired spectrograph CSHELL,
 
 <img src="{{site.url}}/images/nina_and_lisa.png" style="display: block; margin: auto;" />
 
+Outside of telescopes, I enjoy hiking, climbing, and generally enjoying the southern Arizona views.
+
 <img src="{{site.url}}/images/IMG_2753.png" style="display: block; margin: auto;" />
-
-
-Outside of telescopes, I enjoy hiking and climbing and generally enjoying the southern Arizona views.
