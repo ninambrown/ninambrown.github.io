@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "The Large Fiber Array Spectroscopic Telescope: CSHELL revitalization and characterization"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2026-08-21-LFAST-CSHELL
+
 date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'SPIE Proceedings'
+
+citation: 'Brown, Nina. (2026). &quot;The Large Fiber Array Spectroscopic Telescope: CSHELL revitalization and characterization.&quot; <i>SPIE Proceedings</i>'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The Large Fiber Array Spectroscopic Telescope (LFAST), part of the Eric and Wendy Schmidt Observatory System, utilizes large arrays of small, individual telescopes and fiber-fed visible and near-infrared spectrographs. LFAST will feed two spectrographs; this paper will focus on our work with the Cryogenic Echelle Spectrograph (CSHELL), which was previously operated at the NASA Infrared Telescope Facility (IRTF) from 1992-2016, and was decommissioned in 2017. The instrument is still functioning, and offers the LFAST project a promising solution for low-cost, high-resolution spectroscopy in the near-infrared. This paper will present results from the first year of working with CSHELL at Steward Observatory, as well as plans for instrument characterization, observing operations upgrades, and hardware modifications.
